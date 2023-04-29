@@ -9,6 +9,6 @@
     "markdown-toc": "^1.2.0",
     "ts-node": "^8.5.4",
     "ttypescript": "^1.5.8",
-    "typescript": "^3.7.4"
+    "typescript": "^3.9.10"
   }
 }
